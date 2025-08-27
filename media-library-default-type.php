@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Media Library Default Type
  * Description: ブロックエディターでメディアライブラリを開いた際に、デフォルトで「この記事に添付された画像」表示にするプラグイン
- * Version: 1.0.0
+ * Version: 1.0.5
  * Author: Fumiki Takahashi
  * License: GPL v2 or later
  * Text Domain: media-library-default-type
@@ -23,7 +23,7 @@ class MediaLibraryDefaultType {
             'media-library-default-type',
             plugin_dir_url( __FILE__ ) . 'assets/media-library-default-type.js',
             array( 'wp-blocks', 'wp-element', 'wp-edit-post', 'wp-data', 'wp-hooks', 'wp-media-utils', 'media-editor', 'media-views' ),
-            '1.0.4',
+            '1.0.5',
             true
         );
     }

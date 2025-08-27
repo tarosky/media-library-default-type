@@ -2,7 +2,7 @@
 
 WordPressのブロックエディターでメディアライブラリを開いた際に、デフォルトで「この記事に添付された画像」表示にするプラグインです。
 
-![WordPress Plugin Version](https://img.shields.io/badge/version-1.0.4-blue.svg)
+![WordPress Plugin Version](https://img.shields.io/badge/version-1.0.5-blue.svg)
 ![WordPress Compatibility](https://img.shields.io/badge/WordPress-5.0%2B-green.svg)
 ![PHP Compatibility](https://img.shields.io/badge/PHP-7.0%2B-blue.svg)
 ![License](https://img.shields.io/badge/license-GPL%20v2%2B-orange.svg)
